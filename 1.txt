@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 www.test.ir
+=======
+Hi Mohammad
+>>>>>>> 7442d76 (add Text to 1.txt)
